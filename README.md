@@ -35,7 +35,10 @@ Experts uploading Training material for farmers and responding to their queries
 
 ## Application Overview
 
-![Alt text](/WebContent/img/screenshot1.jpg?raw=true "Img for")
+![Alt text](/src/UserInterface/images/Picture1.jpg?raw=true "Img for")
+![Alt text](/src/UserInterface/images/Picture2.jpg?raw=true "Img for")
+![Alt text](/src/UserInterface/images/Picture3.jpg?raw=true "Img for")
+![Alt text](/src/UserInterface/images/Picture4.jpg?raw=true "Img for")
 
 
 
